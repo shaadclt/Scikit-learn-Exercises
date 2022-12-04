@@ -1,3 +1,3 @@
 # Scikit-learn Exercises
 
-Scikit-learn exercises for practise and learning purpose
+Scikit-learn exercises for practice and learning purpose
